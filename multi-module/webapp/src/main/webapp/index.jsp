@@ -1,1 +1,1 @@
-Hello, World!
+This is the application v.1
